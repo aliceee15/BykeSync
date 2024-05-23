@@ -3,7 +3,7 @@
 ![Bicicletta IoT](logo.png)
 
 
-##In questa pagina puoi monitorare i dati dei sensori e analizzare le prestazioni della bicicletta.
+## In questa pagina puoi monitorare i dati dei sensori e analizzare le prestazioni della bicicletta.
 
 #### Dati del Sensore
 

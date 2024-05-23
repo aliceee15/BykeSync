@@ -1,6 +1,7 @@
 # Benvenuto alla Pagina della Bicicletta IoT
 
-<<<<<<< HEAD
+![Bicicletta IoT](Screenshot 2024-05-22 150331.png)
+
 ## Visualizzazione dei Dati del Sensore
 
 Benvenuto alla pagina della Bicicletta IoT, dove puoi monitorare i dati del sensore e analizzare le prestazioni della tua bicicletta.
@@ -17,10 +18,15 @@ Se desideri una visualizzazione più dettagliata e interattiva, puoi accedere al
 
 [Visualizza il report su Power BI](https://aliceee15.github.io/bicicletta-iot-2/report-github.html)
 
-## Grazie per aver visitato la Pagina della Bicicletta IoT!
 
-Speriamo che troverai utile e interessante l'analisi dei dati della tua bicicletta. Continua a seguirci per ulteriori aggiornamenti e analisi!
-=======
-### [Link per visualizzare dati](https://aliceee15.github.io/bicicletta-iot-2/file.html)
-#### [POWER BI](https://aliceee15.github.io/bicicletta-iot-2/report-github-2.html)
->>>>>>> 52852413fd0e10da7bf84ea07b17600aa9fbd3f5
+
+<style>
+  body {
+    background-color: #f5f5f5; /* Cambia il colore dello sfondo */
+    color: #333; /* Cambia il colore del testo */
+  }
+
+  h1, h2, h3 {
+    color: #007bff; /* Cambia il colore dei titoli */
+  }
+</style>

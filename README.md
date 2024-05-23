@@ -2,6 +2,13 @@
 
 ![Bicicletta IoT](logo.png)
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BykeSync - Ride into the future</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
 
 ## In questa pagina puoi monitorare i dati dei sensori e analizzare le prestazioni della bicicletta.
 
@@ -17,4 +24,4 @@ Se desideri una visualizzazione più dettagliata e interattiva, puoi accedere al
 
 [Visualizza il report su Power BI](https://aliceee15.github.io/bicicletta-iot-2/report-github.html)
 
-<link rel="stylesheet" href="style.css">
+

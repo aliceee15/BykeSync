@@ -4,11 +4,11 @@
 
 ## In questa pagina puoi monitorare i dati dei sensori e analizzare le prestazioni della bicicletta.
 
-#### Dati del Sensore
+#### Dati dei Sensori
 
 Puoi visualizzare i dati dei sensori tramite il seguente link:
 
-[Visualizza i dati del sensore](https://aliceee15.github.io/BykeSync/file.html)
+[Visualizza i dati dei sensori](https://aliceee15.github.io/BykeSync/file.html)
 
 #### Report su Power BI
 

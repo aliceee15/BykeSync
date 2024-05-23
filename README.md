@@ -8,7 +8,7 @@
 
 Puoi visualizzare i dati dei sensori tramite il seguente link:
 
-[Visualizza i dati dei sensori](https://aliceee15.github.io/BykeSync/file.html)
+[Visualizza i dati dei sensori](https://aliceee15.github.io/BykeSync/file1.html)
 
 #### Report su Power BI
 

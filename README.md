@@ -1,6 +1,6 @@
 # Benvenuto alla Pagina della Bicicletta IoT
 
-![Bicicletta IoT](Screenshot 2024-05-22 150331.png)
+![Bicicletta IoT](logo.png)
 
 ## Visualizzazione dei Dati del Sensore
 

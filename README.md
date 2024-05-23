@@ -1,14 +1,14 @@
-# Benvenuto alla Pagina della Bicicletta IoT
+# BykeSync - Ride into the future
 
 ![Bicicletta IoT](logo.png)
 
-## Visualizzazione dei Dati del Sensore
+## Visualizzazione dei 
 
-Benvenuto alla pagina della Bicicletta IoT, dove puoi monitorare i dati del sensore e analizzare le prestazioni della tua bicicletta.
+In questa pagina puoi monitorare i dati dei sensori e analizzare le prestazioni della bicicletta.
 
 ### Dati del Sensore
 
-Puoi visualizzare i dati del sensore tramite il seguente link:
+Puoi visualizzare i dati dei sensori tramite il seguente link:
 
 [Visualizza i dati del sensore](https://aliceee15.github.io/bicicletta-iot-2/file.html)
 

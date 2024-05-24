@@ -1,6 +1,6 @@
 # BykeSync - Ride into the future
-<img src="logo.png" alt="Bicicletta IoT" width="300">
-![Bicicletta IoT](logo.png)
+<img src="logo.png" alt="Bicicletta IoT" width="500">
+
 
 ## In questa pagina puoi monitorare i dati dei sensori e analizzare le prestazioni della bicicletta.
 

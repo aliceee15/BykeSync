@@ -14,6 +14,6 @@ Puoi visualizzare i dati dei sensori tramite il seguente link:
 
 Se desideri una visualizzazione più dettagliata e interattiva, puoi accedere al report su Power BI:
 
-[Visualizza il report su Power BI](https://aliceee15.github.io/BykeSync//dashboard.html)
+[Visualizza il report su Power BI](https://aliceee15.github.io/BykeSync//file1.html)
 
 
